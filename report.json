@@ -1,0 +1,14 @@
+{
+  "source": "https://armature.tech/leaderboards/ai-search",
+  "source_snapshot_date": "2026-09-29",
+  "total_runs": 639,
+  "exa_wins": 92,
+  "brave_wins": 89,
+  "exa_minus_brave_percentage_points": 0.469,
+  "iid_normal_95pct_interval_percentage_points": [
+    -3.66,
+    4.6
+  ],
+  "conditional_two_sided_binomial_p": 0.8819,
+  "caveat": "Descriptive iid calculation only; sessions share codebases, agents and personas. Aggregates cannot identify a cluster-aware interval."
+}
